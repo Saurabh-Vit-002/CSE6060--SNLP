@@ -8,3 +8,4 @@
 5. [FSA for Marathi adjectives](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/FSA%20marathi%20and%20Corpus%20Task%20by%20Saurabh%20Pachore%2019MAI0002.pdf)
 6. [Tokenization for Hindi & Marathi](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Tokenization_for_Hindi_Marathi.ipynb)
 7. [Lexicon Vectorizer 12 June](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Lexicon_Vectorizer_12June.ipynb)
+8. [Collections_Ngrams_NLTK_19June](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Collections_Ngrams_NLTK_19June.ipynb)
