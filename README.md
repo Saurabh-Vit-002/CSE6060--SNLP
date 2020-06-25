@@ -11,7 +11,7 @@
 8. [Collections_Ngrams_NLTK_19June](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Collections_Ngrams_NLTK_19June.ipynb)
 9. Review 2 Tasks:
    1) [Embedding](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Embedding.ipynb)
-   2) [Chunking]()
+   2) [Chunking](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Chunking_NER_NLTK_25June.ipynb)
    3) [Demonstrating functions on regional language](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Marathi_NLTK_functions.ipynb)
    4) [3 research paper survey for regional language]()
    5) [Functionalities in iNLTK](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Inltk_Marathi_task5_19MAI0002.ipynb)
