@@ -9,3 +9,9 @@
 6. [Tokenization for Hindi & Marathi](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Tokenization_for_Hindi_Marathi.ipynb)
 7. [Lexicon Vectorizer 12 June](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Lexicon_Vectorizer_12June.ipynb)
 8. [Collections_Ngrams_NLTK_19June](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Collections_Ngrams_NLTK_19June.ipynb)
+9. Review 2 Tasks:
+  [Embedding]()
+  [Chunking]()
+  [Demonstrating functions on regional language]()
+  [3 research paper survey for regional language]()
+  [Functionalities in iNLTK]()
