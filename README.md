@@ -10,7 +10,7 @@
 7. [Lexicon Vectorizer 12 June](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Lexicon_Vectorizer_12June.ipynb)
 8. [Collections_Ngrams_NLTK_19June](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Collections_Ngrams_NLTK_19June.ipynb)
 9. Review 2 Tasks:
-   1) [Embedding]()
+   1) [Embedding](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Embedding.ipynb)
    2) [Chunking]()
    3) [Demonstrating functions on regional language](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Marathi_NLTK_functions.ipynb)
    4) [3 research paper survey for regional language]()
