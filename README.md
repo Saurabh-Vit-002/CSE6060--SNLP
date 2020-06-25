@@ -12,6 +12,6 @@
 9. Review 2 Tasks:
    1) [Embedding]()
    2) [Chunking]()
-   3) [Demonstrating functions on regional language]()
+   3) [Demonstrating functions on regional language](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Marathi_NLTK_functions.ipynb)
    4) [3 research paper survey for regional language]()
    5) [Functionalities in iNLTK](https://github.com/Saurabh-Vit-002/CSE6060--SNLP/blob/master/Inltk_Marathi_task5_19MAI0002.ipynb)
